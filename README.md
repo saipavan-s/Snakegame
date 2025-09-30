@@ -1,6 +1,3 @@
-Perfect 👍 Thanks for clarifying — since your **SnakeGame** is in **Java**, let’s draft a `README.md` tailored for that instead of Python.
-
-Here’s a clean version you can use:
 
 ````markdown
 # 🐍 Snake Game (Java)
