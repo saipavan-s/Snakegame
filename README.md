@@ -53,11 +53,6 @@ The player controls the snake to eat food, grow longer, and avoid collisions wit
 * ⬅️ **Arrow Left** → Move Left
 * ➡️ **Arrow Right** → Move Right
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots or GIFs of gameplay here once available)*
 
 ---
 
