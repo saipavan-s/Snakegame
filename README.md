@@ -74,6 +74,3 @@ This project is open source under the [MIT License](LICENSE).
 ```
 
 ---
-
-👉 Do you want me to add a **"Project Structure"** section (showing your `.java` files and packages), so new users can quickly understand the repo layout?
-```
